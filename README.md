@@ -17,10 +17,6 @@
   <a href="https://codeberg.org/kilianmh/openapi-generator">
     <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kilianmh&repo=openapi-generator&theme=highcontrast" />
   </a>
-  <!-- stacks-api -->
-  <a href="https://codeberg.org/kilianmh/stacks-api">
-    <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=kilianmh&repo=stacks-api&theme=highcontrast" />
-  </a>
 </p>
 
 <h2 align='center'>
